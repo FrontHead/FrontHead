@@ -14,7 +14,6 @@ Oh ! I'm looking for a job currently as well, so please contact me if you have a
 ![FrontHead's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontHead&show_icons=true&theme=shadow_red)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrontHead&repo=KeyDropBot&theme=shadow_red)](https://github.com/FrontHead/KeyDropBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrontHead&repo=Citra-MMJ&theme=shadow_red)](https://github.com/FrontHead/Citra-MMJ)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=google.com)](https://www.linkedin.com/in/rubens-paulino-junior-a34632127/)
