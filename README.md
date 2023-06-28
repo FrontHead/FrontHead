@@ -12,4 +12,6 @@ Oh ! I'm looking for a job currently as well, so please contact me if you have a
 
 # GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrontHead&show_icons=true&theme=shadow_red)
+
+## Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrontHead&repo=Citra-MMJ&theme=shadow_red)](https://github.com/FrontHead/Citra-MMJ)
