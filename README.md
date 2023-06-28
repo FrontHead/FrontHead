@@ -17,3 +17,4 @@ Oh ! I'm looking for a job currently as well, so please contact me if you have a
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=google.com)](https://www.linkedin.com/in/rubens-paulino-junior-a34632127/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rubens.p.junior/)
